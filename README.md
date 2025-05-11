@@ -102,3 +102,69 @@ Following along with someone else’ project is a great way to learn the steps a
 In the past, what has been the easiest way for you to learn a new topic? Maybe there is a way to use that experience to guide you into your studies moving forward. And if you’re not sure, trying both and taking notes on how you feel about them might be another way to plan things out.
 
 Best of luck, and thank you for reading!
+
+
+<br />
+
+## Notes from PyCon 2024 5/12/25
+### And Some Django Resources!
+
+#### Advice I Received at PyCon 2024
+
+The most frequent advice I received last year when I attended PyCon 2024 was to “make friends.”
+
+I was a bit surprised at the time. I was perhaps expecting “make sure to network” or “find a cool project you might be interested in doing.” But instead, when asked what they’d tell a first time conference-goer, most people flat out told me to avoid jam-packing my schedule with lectures. You can find ones you miss later online, they said. Go make some friends.
+
+I appreciated it. Sometimes when I’m new to an environment, it can be tempting to stick to a schedule and keep my head down. The advice was a good push to go out and talk to new people.
+
+I still attended a lot of the lectures, though. They were fantastic, and it was obvious how much effort the presenters put into the slides and practicing for the speeches. This year, I’m planning to post about some of the presentations that I attend. I’ll also try to record other career advice for junior developers like myself, for example any soft skills and technical guidance that I hear while I’m there.
+
+#### My Observations of PyCon
+
+For anyone attending for the first time this year, I definitely recommend checking out the conversational tables that are suggested by and run by attendees. Even if you’re quiet and don’t feel like sharing yourself, it can be a great way to learn more about how other programmers think through day-to-day problems, what software they’re using, or find new resources for fun hobbies. Additionally, if you have any interest in talking with the sponsors about internships or job opportunities, I would make sure to do so before the last day, as it seemed like the majority left on Saturday night last year.
+
+#### Django and Preparing for PyCon 2025
+
+As I’m aiming to attend a sprint and contribute to open source projects in the second week of the conference, I wanted to learn a little bit about Django, a commonly used Python backend framework. A friend recently asked which resources I’ve found most helpful, and I wanted to jot them down in case anyone else was in a similar boat. I’ll circle back and add more as I find them, but these are a decent starting-off point, in my opinion.
+
+#### My Current Favorite Django Resources
+
+Tutorials:
+
+- Django Girls Tutorial
+    - https://tutorial.djangogirls.org/en/
+    - This seems to be a good introductory tutorial, explaining uncommon breaking things down into slow steps which can be helpful for newer programmers.
+
+- Django’s Official Poll App Tutorial 
+    - https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+    - The official tutorial involves more intermediary level programming steps, which may be a better fit if Django Girls feel too easy.
+
+Podcasts
+
+- Django Chat by William Vincent and Carlton Gibson 
+    - https://open.spotify.com/show/4JTUPoJhFKOjbzNbGmIq5l?si=0516c95ae85b4083
+    - Django Chat is great for multi-taskers who still want to learn while hiking or doing chores. Even though the initial podcast episodes are slightly out of date, they do a great job of introducing general topics and covering areas that beginners might get confused or overwhelmed as well as explaining how to get through these hurdles.
+
+
+
+YouTube
+
+- Python Django 7 Hour Course by Traversy Media 
+    - https://youtu.be/PtQiiknWUcI?si=KhMh8PUFICgbgf3a
+    - A YouTube tutorial for visual learners that explains each step. If you follow along, you can develop a Discord-like application with themed chat rooms.
+
+
+
+Documentation
+
+- Django’s website has a guide on how to find what you’re looking for in their documentation: https://docs.djangoproject.com/en/5.2/intro/whatsnext/#finding-documentation
+
+- In this article, they advise using the topic guides, web development how-to-guides, and the general documentation index.
+
+    - Django topic guide: https://docs.djangoproject.com/en/5.2/intro/
+
+    - Django web dev guides https://docs.djangoproject.com/en/5.2/topics/
+
+    - Django general doc index https://docs.djangoproject.com/en/5.2/genindex/
+
+Best of luck if you’re attending any tech conferences this year as well, in-person or virtually!
